@@ -5,3 +5,8 @@ body {
 h1 {
     color: #3820c0;
 }
+
+p {
+    padding-left: 20%;
+    padding-right: 20%;
+}
